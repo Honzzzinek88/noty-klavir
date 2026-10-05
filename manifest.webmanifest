@@ -1,0 +1,17 @@
+{
+  "name": "Noty na klavír",
+  "short_name": "Noty",
+  "description": "Vyfoť noty a poslechni si je zahrané na klavír.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#16140f",
+  "theme_color": "#1c1a17",
+  "lang": "cs",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
